@@ -120,25 +120,63 @@ Think of where we are in 10 weeks. What have we accomplished?
 ---
 
 # "Less than Success" Exercise
+--
+
+Think of what would make you feel we'd missed the mark on this project or uncomfortable with the result. What are the things that come to mind?
+--
+
++ Take 2 mins and come up with words or phrases that describe what that is for you
+--
+
++ Write them on the Post-It Notes and be ready to discuss
 
 ---
 
 # Goal Crafting
+--
+
+How do we best achieve our desired outcome while managing the challenges (the "less than success")? 
+--
+
++ Take 2 mins and come up with words or phrases that describe what that process should look like
+--
+
++ Write them on the Post-It Notes and be ready to discuss
 
 ---
 
 # Timeline and Logistics Review
+--
+
++ **22 March** (Week 1): Project Kickoff
+--
+
++ **23 March - 7 April** (Weeks 2-3): Current project research, documentation, and interview preparation
+--
+
++ **10 April - 28 April** (Weeks 4-6): Interviewing and Interview Summary Report Drafting 
+--
+
++ **1 May - 26 May** (Weeks 7-10): Toolkit Manual drafting and finalization
+
 
 ---
 
 # Check-in/Check-out
+--
+
++ 1 thing you're thinking 
+--
+
++ 1 thing you're feeling
 
 ---
 
+class:center, middle
 # Final Thought
 
 ---
-
+exclude: true
 # Contact Information
 + [Email me](mailto:richard[at]datapolitan[dot]com)
 + Check out [my website](https://wwww.datapolitan.com)
